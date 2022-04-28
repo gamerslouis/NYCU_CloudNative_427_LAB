@@ -14,3 +14,11 @@
 
 - As a user, I want to check the comment of a car/driver.
     - When users click on a car, show the comments list collected from other users of the driver.
+
+#### 310552016
++ As a user, I want to choose the car that suits me when I order a uber.
+    + When user open uber app, show different car models for users to choose.
+    + When user open uber app, show different service rate of driver for users to choose.
+
++ As a user, I want to know prices for different locations and then show them on the map.
+    + When user open uber app, type address or click landmark, then show prices on the location of the map.
