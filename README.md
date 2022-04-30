@@ -28,3 +28,11 @@
 
 + As a user, I want to know prices for different locations and then show them on the map.
     + When user open uber app, type address or click landmark, then show prices on the location of the map.
+
+#### 0716235
++ As a user, I want to choose whether carpooling with others.
+    + When user ticks the carpool checkbox, shows multiple possible paths and their fees.
+    + When user confirms carpool path, the app shows how much time and money you will save via carpool.
++ As a user, I want to get some rewards or coupons by taking uber more.
+    + When users open their profile, the app shows rewards or coupons and their condition of usage.
+    + When users open payment page, the app automatically applies available rewards or coupons to use.
