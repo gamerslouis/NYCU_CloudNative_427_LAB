@@ -41,5 +41,5 @@
 - As a user, I want to see some user's location (ex: children are happy, parents can rest assured)
   - When user init the app, it will ask user whether to open "Secure family mode".
   - When user open their "family" page, it will show all member that had been added to family.
-- As a user, I want to pre-set the place where uber goes to pick up meals along the way in combination with Ubereats (ex: rush to work, eat well and sleep well)
+- As a user, I want to pre-set the place where uber goes to pick up meals along the way in combination with UberEats (ex: rush to work, eat well and sleep well)
   - When user are reserving a car, the app will show all available restaurants along the path.
